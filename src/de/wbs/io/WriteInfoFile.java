@@ -1,4 +1,4 @@
-package de.wbs.nio;
+package de.wbs.io;
 
 import java.io.*;
 
