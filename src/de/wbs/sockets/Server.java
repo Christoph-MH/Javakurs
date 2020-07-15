@@ -1,4 +1,4 @@
-package de.wbs.socket;
+package de.wbs.sockets;
 
 import java.io.IOException;
 import java.io.InputStream;
